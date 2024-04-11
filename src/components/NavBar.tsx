@@ -29,7 +29,7 @@ export default function NavBar(props: NavBarProps){
                 </li>
             </ul>
             <div className="w-14 rounded-full overflow-hidden">
-                <img src="../../public/logo.png" alt="Logo"/>
+                <img src="logo.png" alt="Logo"/>
             </div>
         </nav>
     )
